@@ -36,5 +36,3 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
 });
-
-// Coloque abaixo o restante das suas funções originais de validação (ex: displayError, clearError, nome input checker, etc.)
